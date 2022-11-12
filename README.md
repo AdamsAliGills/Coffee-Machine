@@ -1,2 +1,2 @@
 # Coffee-Machine
-Coffee Machine Project
+This project focuses on simulating a coffee machine using the following hardware a Arduino micro-controller, LED (is used to indicate when the coffee is served), LCD 1602 (used to show coffee options and payment), Dip Switch 8 (it is a switch with a total of 8 pins where pin 5 and 6 are meant for payment and pins 7 and 8 are used to select type of coffee), Potentiometer (it is a slider potentiometer and its used to select coffee flavor which is different from coffee type), servomotor (used to act as a serving mechanism), and a button (is used to confirm choice). In the programming aspect, the intention is to ignore standard Arduino functions and code structure, but rather utilize bits and registers. 
